@@ -5,7 +5,7 @@ Requires at least: 3.3
 Tested up to: 5.8.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Stable tag: 1.2.61
+Stable tag: 1.2.62
 
 Extend the power of your relationship with your leads and customers,
 
